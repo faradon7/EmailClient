@@ -15,39 +15,12 @@ namespace EmailClient
     {
 
         /// <summary>
-        /// NewMessage control.
+        /// SendingControl1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label NewMessage;
-
-        /// <summary>
-        /// ToID control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox ToID;
-
-        /// <summary>
-        /// MessageID control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox MessageID;
-
-        /// <summary>
-        /// SendingForm1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::EmailClient.Controls.SendingForm SendingForm1;
+        protected global::EmailClient.Controls.SendingControl SendingControl1;
     }
 }

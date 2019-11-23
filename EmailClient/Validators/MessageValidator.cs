@@ -8,8 +8,8 @@ namespace EmailClient.Validators
     {
         public bool IsValid(Message model)
         {
-            return validateEmailAddress(model.To)
-                && validateMessageLength(model.Text);
+            return validateEmailAddress(model.Recipient)
+                && validateMessageLength(model.Content);
         }
 
         private bool validateEmailAddress(string emailAddress)
