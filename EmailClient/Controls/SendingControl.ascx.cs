@@ -60,7 +60,7 @@ namespace EmailClient.Controls
             if (_validator.IsValid(model))
             {
                 _message = model;
-                Response.Redirect(Resources.pathSuccessful);
+                Response.Redirect(Resources.PathSuccessful);
             }
             ValidationMessage.Text = Resources.InvalidInput;
         }

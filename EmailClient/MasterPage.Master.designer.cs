@@ -15,6 +15,24 @@ namespace EmailClient
     {
 
         /// <summary>
+        /// Application control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlAnchor Application;
+
+        /// <summary>
+        /// HomePage control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlAnchor HomePage;
+
+        /// <summary>
         /// MainContent control.
         /// </summary>
         /// <remarks>

@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="EmailClient._Default" %>
+﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/MasterPage.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="EmailClient._Default" %>
 
 <%@ Register Src="~/Controls/SendingControl.ascx" TagPrefix="send" TagName="SendingControl" %>
 

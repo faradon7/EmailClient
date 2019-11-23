@@ -127,8 +127,10 @@ C:\Users\farik\source\EmailClient\EmailClient\bin\Microsoft.ScriptManager.MSAjax
 C:\Users\farik\source\EmailClient\EmailClient\bin\Microsoft.ScriptManager.WebForms.dll
 C:\Users\farik\source\EmailClient\EmailClient\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\farik\source\EmailClient\EmailClient\bin\Newtonsoft.Json.dll
+C:\Users\farik\source\EmailClient\EmailClient\bin\Resources.dll
 C:\Users\farik\source\EmailClient\EmailClient\bin\System.Web.Optimization.dll
 C:\Users\farik\source\EmailClient\EmailClient\bin\WebGrease.dll
+C:\Users\farik\source\EmailClient\EmailClient\bin\Resources.pdb
 C:\Users\farik\source\EmailClient\EmailClient\bin\System.Web.Optimization.xml
 C:\Users\farik\source\EmailClient\EmailClient\bin\Newtonsoft.Json.xml
 C:\Users\farik\source\EmailClient\EmailClient\bin\Antlr3.Runtime.pdb
@@ -138,5 +140,3 @@ C:\Users\farik\source\EmailClient\EmailClient\obj\Debug\EmailClient.csprojAssemb
 C:\Users\farik\source\EmailClient\EmailClient\obj\Debug\EmailClient.csproj.CopyComplete
 C:\Users\farik\source\EmailClient\EmailClient\obj\Debug\EmailClient.dll
 C:\Users\farik\source\EmailClient\EmailClient\obj\Debug\EmailClient.pdb
-C:\Users\farik\source\EmailClient\EmailClient\bin\Resources.dll
-C:\Users\farik\source\EmailClient\EmailClient\bin\Resources.pdb

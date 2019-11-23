@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using System.Web.UI;
-using System.Web.UI.WebControls;
+using Recources;
 
 namespace EmailClient
 {
@@ -11,7 +8,8 @@ namespace EmailClient
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Application.InnerText = Resources.Application;
+            HomePage.InnerText = Resources.HomePage;
         }
     }
 }

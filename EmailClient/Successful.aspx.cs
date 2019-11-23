@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using System.Web.UI;
-using System.Web.UI.WebControls;
 
 namespace EmailClient
 {
@@ -11,7 +7,7 @@ namespace EmailClient
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            SuccessFulMessage.Text = Recources.Resources.MesageSuccessful;
         }
     }
 }
